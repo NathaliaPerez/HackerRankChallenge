@@ -1,4 +1,4 @@
-# HackerHankChallenges
+# HackerRankChallenges
 
 #30DaysOfCode 
 
