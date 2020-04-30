@@ -6,3 +6,5 @@
  | Challenge     | Resolution      
 | ------------- |:-------------:|  
 |  [ArraySum](https://www.hackerrank.com/challenges/simple-array-sum/problem)        | ArraySum.java    |  
+
+|  [DataTypes](https://www.hackerrank.com/challenges/30-data-types/problem)      | DataTypes.java    |  
